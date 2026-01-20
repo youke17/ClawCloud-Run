@@ -2,7 +2,7 @@ name: ClawCloud 自动登录保活
 
 on:
   schedule:
-    - cron: '0 7 */25 * *'
+    - cron: '44 17 */5 * *'
   workflow_dispatch:
 
 jobs:
